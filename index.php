@@ -1,4 +1,4 @@
-<?php    
+   
 
 
 <!DOCTYPE html>
@@ -1005,4 +1005,3 @@ $(window).ready(function () {
 
 
 
-?>
